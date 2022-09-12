@@ -18,4 +18,4 @@
 1. https://start.spring.io/ 에서 스프링 프로젝트 생성
 2. git repository 와 연결
 3. ssh key 새로 만들어서 `git config --add --local core.sshCommand 'ssh -i <key_path>'` 설정 추가
-4. Dockerfile 작성
+4. Dockerfile 작성 -> java 11
