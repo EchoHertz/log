@@ -19,3 +19,5 @@
 2. git repository 와 연결
 3. ssh key 새로 만들어서 `git config --add --local core.sshCommand 'ssh -i <key_path>'` 설정 추가
 4. Dockerfile 작성 -> java 11
+5. docker build > docker save > docker load
+6. docker image Platform 장애 발생 (Docker build 시 런타임 환경에 맞춰 빌드 해
